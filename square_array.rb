@@ -1,5 +1,5 @@
 def square_array(array)
   array.each do |array_squared|
-    array_squared.square! 
+    array_squared.square 
   end
 end
